@@ -1,2 +1,1 @@
-# MyFirstRepo
-This is a demo repository
+Git is fun
